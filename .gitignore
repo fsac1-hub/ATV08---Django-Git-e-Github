@@ -1,0 +1,9 @@
+# Ambiente virtual
+myworld/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Arquivos temporários
+.DS_Store
